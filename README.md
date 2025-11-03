@@ -8,14 +8,6 @@ The project focuses on optimizing solar power generation by integrating inverter
 It uses Python for data preprocessing and analysis, SQL for insight generation, Power BI for visualization, and PowerPoint for presentation forming a complete data-driven energy optimization.
 
 
-## 🔗 Links
-
-[Github]: https://github.com/SHRUTI233017/Optimization-Solar-Power-Generation                
-
-[linkedin]:https://www.linkedin.com/in/shrutichigare/
-
-
-
 ## 🎯 Business Problem and Objective
 
 | **Category**                  | **Description**                                                                                                           |
