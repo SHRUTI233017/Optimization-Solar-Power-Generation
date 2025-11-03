@@ -9,7 +9,7 @@ It uses Python for data preprocessing and analysis, SQL for insight generation, 
 
 
 ## 🔗 Links
-[Github]: (https://github.com/SHRUTI233017/Optimization-Solar-Power-Generation                
+[Github]: https://github.com/SHRUTI233017/Optimization-Solar-Power-Generation                
 
 [linkedin]:https://www.linkedin.com/in/shrutichigare/
 
