@@ -15,7 +15,7 @@ It uses Python for data preprocessing and analysis, SQL for insight generation, 
 | Business Problem         | The company faces frequent fluctuations in solar energy output due to environmental variations and system inefficiencies. |
 |Business Constraint       | Reduce operational cost and maintain continuous performance.                                                              |
 |Business Objective        | Maximize power production efficiency and inverter performance.                                                            |
-| Business Success Criteria | Achieve a 20–30% increase in profit** and 30% growth in revenue through improved solar generation efficiency.          ## 
+| Business Success Criteria | Achieve a 20–30% increase in profit and 30% growth in revenue through improved solar generation efficiency.          
 
 
 
